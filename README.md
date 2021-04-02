@@ -7,11 +7,11 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play games...however not pro😅
+- ⚡ Fun fact: I love to draw vectors 🖌️ and play games...however not pro😅
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo?si=E0PyiY8zQB6ElhSqQNTwag)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1pgvqkPc4QZByrooE66eEb)
 
 ---
 
