@@ -58,7 +58,7 @@
 
 
 
-[gmail]: mailto:mridulsetia18@gmail.com
+[gmail]: mailto:souravjangar91@gmail.com
 [facebook]: https://www.facebook.com/sahil.janger.7
 [instagram]: https://www.instagram.com/sahil_jhangar/?hl=en
 [linkedin]: https://www.linkedin.com/in/sahil-jhangar-b78809206/
