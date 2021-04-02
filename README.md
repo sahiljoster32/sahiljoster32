@@ -26,7 +26,6 @@
 <br />
 <br />
 <br/>
-
 <br />
 
 ---
@@ -56,8 +55,6 @@
 <br />
 
 ---
-
-
 
 [gmail]: mailto:souravjangar91@gmail.com
 [facebook]: https://www.facebook.com/sahil.janger.7
