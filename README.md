@@ -1,4 +1,4 @@
-### Hi there, I'm sahiljoster32 - aka--(Sahil jhangar)![stat](https://komarev.com/ghpvc/?username=sahiljoster32&style=flat-square) 👋
+### Hi there, I'm sahiljoster32 - aka--(Sahil jhangar)!👋
 
 ## I'm a Developer and mostly learner!!😇
 
