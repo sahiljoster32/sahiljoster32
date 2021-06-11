@@ -16,9 +16,9 @@
 ---
 ### --- 🗞️ GitHub Stats ---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahiljoster32&show_icons=true&locale=en" alt="sahiljoster32" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sahiljoster32&show_icons=true&locale=en" alt="sahiljoster32" />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljoster32&show_icons=true&locale=en&layout=compact" />
+  <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljoster32&" alt="harshitdolu" />
 
 <br />
 <br />
