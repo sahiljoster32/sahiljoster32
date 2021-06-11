@@ -18,7 +18,6 @@
 ### --- 🗞️ GitHub Stats ---
 
   <br />
-  <br />
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sahiljoster32&show_icons=true&locale=en" alt="sahiljoster32" />
 
