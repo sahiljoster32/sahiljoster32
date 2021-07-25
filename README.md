@@ -9,10 +9,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw vectors 🖌️ and play games...however not pro😅
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1pgvqkPc4QZByrooE66eEb)
-
 ---
 
 ### --- 🗞️ GitHub Stats ---
