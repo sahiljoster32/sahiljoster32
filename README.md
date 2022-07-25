@@ -4,7 +4,7 @@
 
 - 🔭 I just start with acer machine.
 - 🐍 currently in ♥ with python and it's libraries.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything :/
 - 👯 I’m looking to collaborate with other web creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw vectors 🖌️ and play games...however not pro😅
